@@ -3,4 +3,4 @@
 tee
 ll | tee ab.txt
 ll > ll.txt
-script
+scripting 
